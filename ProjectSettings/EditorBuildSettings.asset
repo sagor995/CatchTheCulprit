@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StarterMenu.unity
+    guid: e10bbe4039d313840af02395caafd259
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 95463c8c4fe6c7e408f7e0879641af72
+  - enabled: 1
+    path: Assets/Scenes/GameLobby.unity
+    guid: faacb7c0429836e44bfb50f447cf8bd8
+  - enabled: 1
+    path: Assets/Scenes/SelectMultiplayerSerial.unity
+    guid: 07a52926c5da9f544a4bf9086f93ad03
+  - enabled: 1
+    path: Assets/Scenes/MultiplayerGamePlay.unity
+    guid: 24b0d5deb36370941ae1bd08b0135a0f
+  - enabled: 1
+    path: Assets/Scenes/ResultActivityOnline.unity
+    guid: dddc73db2f3861d46972bbe31297fa0c
+  - enabled: 1
+    path: Assets/Scenes/ChestBox.unity
+    guid: ea8db68a359b66b4db3e53af71187985
+  - enabled: 1
+    path: Assets/Scenes/Game_Modes.unity
+    guid: fa914e9bdf00ba54799960f7140043ae
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 2826c438122736c4ca33b14b74f6f829
+  - enabled: 1
+    path: Assets/Scenes/OfflineGamePlay.unity
+    guid: bcd80ecf7513a0745a9f3dea42d21a3e
+  - enabled: 1
+    path: Assets/Scenes/OfflineSingleGamePlay.unity
+    guid: 7e5bc75165a58b049b68c19f82132c94
+  - enabled: 1
+    path: Assets/Scenes/ResultActivity.unity
+    guid: 858bc8733f0fe4441bfe63f45cef4149
+  - enabled: 1
+    path: Assets/Scenes/howtoplay.unity
+    guid: 1d039cc90bd3e354db257a65bfb3d62b
+  - enabled: 1
+    path: Assets/Scenes/LevelLoading.unity
+    guid: 8022c19ff7e29614b999385d14a6dc8e
+  m_configObjects: {}
